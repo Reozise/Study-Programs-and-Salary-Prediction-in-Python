@@ -8,3 +8,11 @@ Cleaned and structured dataset (CSV) containing:
 - job search duration,
 - unemployment percentage,
 - relative unemployment & salary indexes.
+
+Visualizations using matplotlib and seaborn:
+- salary ranking by field of study,
+- correlation heatmap between variables.
+
+Machine learning model using scikit-learn:
+- linear regression to predict expected salary,
+- option to tune and save the best model via cross-validation.
